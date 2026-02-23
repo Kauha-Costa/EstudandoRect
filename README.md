@@ -102,13 +102,13 @@ Não é destinado para uso em produção.
 Clone the repository:
 
 
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO
+git clone https://github.com/Kauha-Costa/EstudandoRect.git
 
 
 Enter the folder:
 
 
-cd NOME-DO-REPOSITORIO
+cd FOLDER
 
 
 Install dependencies:
@@ -120,7 +120,7 @@ npm install
 Run the project:
 
 
-npm start
+npm run dev
 
 
 Open in browser:
@@ -136,13 +136,13 @@ http://localhost:3000
 Clone o repositório:
 
 
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO
+git clone https://github.com/Kauha-Costa/EstudandoRect.git
 
 
 Entre na pasta:
 
 
-cd NOME-DO-REPOSITORIO
+cd LOCAL_ARQUIVO
 
 
 Instale as dependências:
@@ -154,13 +154,9 @@ npm install
 Execute o projeto:
 
 
-npm start
+npm run dev
 
 
-Abra no navegador:
-
-
-http://localhost:3000
 
 
 ---
